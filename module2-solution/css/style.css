@@ -2,11 +2,18 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-size: 100%
+}
+
+body{
+  background-image: url("../images/backgorund_texture_repeat.png");.
 }
 
 h1 {
-  margin: 25px;
+  margin: 50px 25px 25px 25px;
   text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 175%
 }
 
 p.title {
@@ -14,22 +21,42 @@ p.title {
   padding: 5px;
   top: 20px;
   right: 20px;
-  position: absolute;
-  background-color: #4C79CC;
+  position: absolute;  
+  font-size: 125%;
+  font-family: Arial, Helvetica, sans-serif;
+  border-bottom-left-radius: 15px;
+}
+
+p.color1 {
+  background-color: #00B294;
+  color: black;
+}
+
+p.color2 {
+  background-color: #B146C2;
+  color: black;
+}
+
+p.color3 {
+  background-color: #FF8C00;
+  color: black;
 }
 
 p.abstract {
-  background-color: #277D20;
+  background-color: #34495E;
   border: 1px solid black;
   margin: 10px;
-  color: white;
+  color: #ECF0F1;
   padding: 40px 20px 20px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 15px;
 }
 
 .row {
   width: 100%;
   padding-right: 10px;
   padding-left: 10px;
+  padding-bottom: 10px;
 }
 
 /* Desktop version (view 992px and above) */
