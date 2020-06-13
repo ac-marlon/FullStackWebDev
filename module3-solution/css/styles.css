@@ -1,0 +1,52 @@
+body {
+  font-size: 16px;
+}
+
+.navbar-brand h1 {
+  font-size: 1.5em;
+  text-transform: capitalize;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Philosopher', sans-serif;
+}
+
+#nav-main{
+	padding: 0px 10px;
+}
+
+h2 {
+  font-size: 4em;
+  text-transform: capitalize;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-family: 'Lobster', cursive;
+}
+
+h3 {
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Philosopher', sans-serif;
+}
+
+#nav-list a {
+  text-align: center;
+  font-size: 1.1em;
+  color: #ECEFF1;
+  margin: 10px;
+  border-style: hidden;
+  border-radius: 15px;
+  background-color: #37474F;
+}
+
+#main-content p {
+	padding: 30px;
+	margin: 20px 5px;
+	font-family: 'Tenor Sans', sans-serif;
+	border-style: hidden;
+	border-radius: 5px;
+	background-color: #FFECB3;
+}
