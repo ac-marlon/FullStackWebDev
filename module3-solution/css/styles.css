@@ -33,13 +33,13 @@ h3 {
 }
 
 #nav-list a {
-  text-align: center;
   font-size: 1.1em;
   color: #ECEFF1;
   margin: 10px;
   border-style: hidden;
   border-radius: 15px;
   background-color: #37474F;
+  font-family: 'Philosopher', sans-serif;
 }
 
 #main-content p {
