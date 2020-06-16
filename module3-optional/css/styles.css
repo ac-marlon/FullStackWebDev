@@ -24,7 +24,7 @@ h2 {
 }
 
 h3 {
-  font-size: 2em;
+  font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
   margin-top: 10px;
@@ -42,20 +42,11 @@ h3 {
   font-family: 'Philosopher', sans-serif;
 }
 
-#first-col p {
+#first-col p, #second-col p, #third-col p {
 	padding: 30px;
 	margin: 20px 5px;
 	font-family: 'Tenor Sans', sans-serif;
 	border-style: hidden;
 	border-radius: 5px;
 	background-color: #FFECB3;
-}
-
-#second-col p {
-  padding: 30px;
-  margin: 20px 5px;
-  font-family: 'Tenor Sans', sans-serif;
-  border-style: hidden;
-  border-radius: 5px;
-  background-color: #FFECB3;
 }
