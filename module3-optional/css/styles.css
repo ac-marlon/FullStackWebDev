@@ -42,11 +42,20 @@ h3 {
   font-family: 'Philosopher', sans-serif;
 }
 
-#main-content p {
+#first-col p {
 	padding: 30px;
 	margin: 20px 5px;
 	font-family: 'Tenor Sans', sans-serif;
 	border-style: hidden;
 	border-radius: 5px;
 	background-color: #FFECB3;
+}
+
+#second-col p {
+  padding: 30px;
+  margin: 20px 5px;
+  font-family: 'Tenor Sans', sans-serif;
+  border-style: hidden;
+  border-radius: 5px;
+  background-color: #FFECB3;
 }
